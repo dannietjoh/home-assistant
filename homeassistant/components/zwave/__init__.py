@@ -36,7 +36,7 @@ from . import workaround
 from .discovery_schemas import DISCOVERY_SCHEMAS
 from .util import check_node_schema, check_value_schema, node_name
 
-REQUIREMENTS = ['pydispatcher==2.0.5', 'python_openzwave==0.4.0.31']
+REQUIREMENTS = ['pydispatcher==2.0.5', 'python_openzwave==0.4.0.34']
 
 _LOGGER = logging.getLogger(__name__)
 
